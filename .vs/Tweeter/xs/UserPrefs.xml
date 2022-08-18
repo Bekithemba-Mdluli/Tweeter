@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{1A2207B5-AB3E-46AB-96D7-7FABFFAA0B69}|Default">
+﻿<Properties StartupConfiguration="{1A2207B5-AB3E-46AB-96D7-7FABFFAA0B69}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Tweeter.Web/Models/PostModel.cs">
@@ -33,9 +33,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Tweeter.Web PreferredExecutionTarget="/Applications/Brave Browser.app" />
 </Properties>
