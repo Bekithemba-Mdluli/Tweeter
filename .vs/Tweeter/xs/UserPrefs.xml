@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1A2207B5-AB3E-46AB-96D7-7FABFFAA0B69}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tweeter.Web/Models/PostModel.cs">
+    <Files>
+      <File FileName="Tweeter.Web/Models/PostModel.cs" Line="10" Column="1" />
+      <File FileName="Tweeter.Web/Data/ApplicationDbContext.cs" Line="7" Column="10" />
+      <File FileName="Tweeter.Web/Views/Shared/_Layout.cshtml" Line="41" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tweeter" expanded="True">
+            <Node name="Tweeter.Web" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="PostModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="Assets" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tweeter.Web PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
